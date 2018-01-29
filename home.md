@@ -1,10 +1,10 @@
 # Crypt Racing Online Wiki (CROW)
 
 This wiki is intended to be a reliable source of information on Crypt of the NecroDancer's various mechanics, enemies, and racing strategy/meta.  Additionally, you'll find information on the various speedrunning and racing events within the community.  
-+ [Racing]()
-+ [CoNDOR]()
-+ [TUNE]()
-+ [CRoW]()
++ [Racing](/racing)
++ [CoNDOR](/condor)
++ [TUNE](/tune)
++ [CRoW](/crow)
 
 ### Useful links
 
