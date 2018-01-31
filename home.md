@@ -1,6 +1,6 @@
-# ![birdarm](/static/img/birdarm.png "Birdarm") Crypt Advanced Wiki
+# ![birdarm](/static/img/birdarm.png "Birdarm") Crypt Advanced Wiki (CAW)
 ---
-The Crypt Advanced Wiki (CAW) is intended to be a reliable source of information on Crypt of the NecroDancer's various mechanics, enemies, and racing strategy/meta.  Additionally, you'll find information on the various speedrunning and racing events within the community.  
+The CAW is intended to be a reliable source of information on Crypt of the NecroDancer's various mechanics, enemies, and racing strategy/meta.  Additionally, you'll find information on the various speedrunning and racing events within the community.  
 + [NecroTome](/necrotome) - An in-depth breakdown of the different zones, layouts, enemies, and everything else.
 + [Racing](/racing) - Meta and strategy for racing
 + [CoNDOR](/condor) - NecroDancer's main racing oganisation
