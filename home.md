@@ -11,4 +11,6 @@ This wiki is intended to be a reliable source of information on Crypt of the Nec
 
 Community NecroDancer discord - http://discord.condor.live  
 Necrobot discord - http://race.condor.live  
-CoNDOR Twitter - https://twitter.com/condorleague
+CoNDOR Twitter - https://twitter.com/condorleague  
+
+For technical help, visit the [help page](/help).
