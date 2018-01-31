@@ -1,4 +1,4 @@
-# CoNDOR streaming rules
+# CoNDOR rules
 ---
 ### In-game settings
 We require racers to stream in the native windowed resolution of the game, or a multiple thereof.  NecroDancer runs at 480x270, so acceptable resolutions and zoom levels are:
