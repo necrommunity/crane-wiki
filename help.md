@@ -16,3 +16,5 @@ A page's location within the wiki is determined by its name in the editor.  For 
 |`condor`|https://wiki.condor.live/condor|
 |`condor/rules`|https://wiki.condor.live/condor/rules|
 In the first row, creating the page called `condor` will make a page itself; in the second row, a folder called `condor` is also created and a `rules` page is created within it.  Please make sure all folders have a landing page of the same name.
+
+Please also ensure that *all* pages and folder names are lower case.
