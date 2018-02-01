@@ -1,7 +1,7 @@
 <div class="title">
 <img src="/static/img/birdarm.png">
 <span><h1>CRaNE</h1></span>
-<br>
+<span><br></span>
 <span><h4>Crypt Racing and Necrodancer Encyclopaedia</h4></span>
 </div>
 
