@@ -1,4 +1,5 @@
-# ![birdarm](/static/img/birdarm.png "Birdarm") Crypt Racing and Necrodancer Encyclopaedia
+# ![birdarm](/static/img/birdarm.png "Birdarm") CRaNE 
+#### Crypt Racing and Necrodancer Encyclopaedia
 ---
 CRaNE is intended to be a reliable source of information on Crypt of the NecroDancer's various mechanics, enemies, and racing strategy/meta.  Additionally, you'll find information on the various speedrunning and racing events within the community.  
 + [NecroTome](/necrotome) - An in-depth breakdown of the different zones, layouts, enemies, and everything else.
