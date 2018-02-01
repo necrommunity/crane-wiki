@@ -1,0 +1,1 @@
+it's basically speedruninng but dying is not recommended!!!!
