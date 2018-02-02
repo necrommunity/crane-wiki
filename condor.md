@@ -9,3 +9,5 @@ Season events run for several weeks, culminating with a playoff bracket.  Most r
 Our weekly events generally run Sunday to Thursday or Friday, with the playoffs on Friday at 8PM or Saturday at 2PM (both US eastern).  Racers play 2/3 matches with each win awarding a point.  The top 4/8 players after the weekly races are entered into the palyoffs - either a 4-man, double elim bracket, or an 8-man single elim bracket.  Playoff races are best of 3, with a best of 5 finals.
 ### Weekend events  
 ...
+### [Staff](condor/staff)
+Click above to learn more about the CoNDOR staff!
