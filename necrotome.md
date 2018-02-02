@@ -6,3 +6,4 @@ The NecroTome was originally a YouTube series started by [Elad](/condor/staff#el
 #### [Bosses](necrotome/bosses)
 #### [Zones](necrotome/zones)
 #### [Items](necrotome/items)
+#### [Characters](necrotome/characters)
