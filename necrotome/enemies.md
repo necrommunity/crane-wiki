@@ -1,153 +1,151 @@
 ---
 enemies:
   - name: Armadillos
-    info:
-    variants:
-    tiers:
+    info: "Armoured enemy which rolls towards the player when they step into its line of sight."
+    tiers: 2
   - name: Bats
-    info:
-    variants:
-    tiers:
+    info: "Flying enemy with percentage chance to hit the player when in proximity."
+    tiers: 4
   - name: Beetles
-    info:
-    variants:
-    tiers:
+    info: "Armoured, environment affecting enemy that tracks the player."
+    types: 2
   - name: Blademasters
-    info:
-    variants:
-    tiers:
+    info: "Armoured enemy unable to be killed until attacked"
+    tiers: 2
   - name: Cauldrons
     info:
-    variants:
+    types:
     tiers:
   - name: Clones
     info:
-    variants:
+    types:
     tiers:
   - name: Devils
     info:
-    variants:
+    types:
     tiers:
   - name: Elementals
     info:
-    variants:
+    types:
     tiers:
   - name: Evil Eyes
     info:
-    variants:
+    types:
     tiers:
   - name: Gargoyles
     info:
-    variants:
+    types:
     tiers:
   - name: Ghost
     info:
-    variants:
+    types:
     tiers:
   - name: Goblins
     info:
-    variants:
+    types:
     tiers:
   - name: Golems
     info:
-    variants:
+    types:
     tiers:
   - name: Gorgons
     info:
-    variants:
+    types:
     tiers:
   - name: Harpy
     info:
-    variants:
+    types:
     tiers:
   - name: Hellhound
     info:
-    variants:
+    types:
     tiers:
   - name: Leprechaun
     info:
-    variants:
+    types:
     tiers:
   - name: Mages
     info:
-    variants:
+    types:
     tiers:
   - name: Mimics
     info:
-    variants:
+    types:
     tiers:
   - name: Moles
     info:
-    variants:
+    types:
     tiers:
   - name: Monkeys
     info:
-    variants:
+    types:
     tiers:
   - name: Mushrooms
     info:
-    variants:
+    types:
     tiers:
   - name: Orcs
     info:
-    variants:
+    types:
     tiers:
   - name: Pixie
     info:
-    variants:
+    types:
     tiers:
   - name: Sarcophagi
     info:
-    variants:
+    types:
     tiers:
   - name: Shopkeepers
     info:
-    variants:
+    types:
     tiers:
   - name: Shove Monsters
     info:
-    variants:
+    types:
     tiers:
   - name: Skeletons
     info:
-    variants:
+    types:
     tiers:
   - name: Slimes
     info:
-    variants:
+    types:
     tiers:
   - name: Spider
     info:
-    variants:
+    types:
     tiers:
   - name: Spirits
     info:
-    variants:
+    types:
     tiers:
   - name: Tar Monster
     info:
-    variants:
+    types:
     tiers:
   - name: Warlocks
     info:
-    variants:
+    types:
     tiers:
   - name: Water Ball
     info:
-    variants:
+    types:
     tiers:
   - name: Yeti
     info:
-    variants:
+    types:
     tiers:
   - name: Zombie
     info:
-    variants:
+    types:
     tiers:
 ---  
-
+# Enemies <small><sub><sup>[Return](./)</sup></sub></small>
+---
 {{#each enemies}}
-#### [{{name}}](enemies/{{makeLink name}})  
-{{#each this.variants}}<small>{{this}}</small>{{/each}}
+#### [{{name}}](enemies/{{makeLink name}}) | <small>{{#if tiers}}{{#if types}}{{tiers}} tiers, {{else}}{{tiers}} tiers{{/if}}{{/if}}{{#if types}}{{types}} types{{/if}}</small>
+
+{{#each this.types}}<small>{{this}}</small>{{/each}}
 {{info}}
 {{/each}}
