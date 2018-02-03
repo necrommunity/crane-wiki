@@ -112,8 +112,13 @@ enemies:
 # Enemies <small><sub><sup>[Return](./)</sup></sub></small>
 ---
 {{#each enemies}}
-#### [{{name}}](enemies/{{makeLink name}}) <small>| {{variants}} variant(s)</small>
+#### [{{name}}](enemies/{{makeLink name}}) <small>| {{variants}} 
+{{#compare variants 1 operator="<"}} 
+  variant 
+{{else}}
+  variants
+{{/compare}}
+</small>
 
-{{#each this.types}}<small>{{this}}</small>{{/each}}
 {{info}}
 {{/each}}
