@@ -4,8 +4,9 @@ enemies:
     info: "Armoured enemy which rolls towards the player when they step into its line of sight."
     tiers: 2
   - name: Bats
-    info: "Flying enemy with percentage chance to hit the player when in proximity."
+    info: "Flying enemy with random movement."
     tiers: 4
+    types: 2
   - name: Beetles
     info: "Armoured, environment affecting enemy that tracks the player."
     types: 2
@@ -105,9 +106,9 @@ enemies:
     types:
     tiers:
   - name: Skeletons
-    info:
-    types:
-    tiers:
+    info: "Dem bones"
+    types: 4
+    tiers: 3
   - name: Slimes
     info:
     types:
