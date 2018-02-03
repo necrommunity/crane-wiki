@@ -64,6 +64,10 @@ enemies:
     info:
     variants:
     tiers:
+  - name: Leprechaun
+    info:
+    variants:
+    tiers:
   - name: Mages
     info:
     variants:
@@ -93,6 +97,10 @@ enemies:
     variants:
     tiers:
   - name: Sarcophagi
+    info:
+    variants:
+    tiers:
+  - name: Shopkeepers
     info:
     variants:
     tiers:
@@ -139,7 +147,7 @@ enemies:
 ---  
 
 {{#each enemies}}
-#### [{{name}}](enemies/{{makeLink name}}) <small>{{note}}</small>  
+#### [{{name}}](enemies/{{makeLink name}})  
 {{#each this.variants}}<small>{{this}}</small>{{/each}}
 {{info}}
 {{/each}}
