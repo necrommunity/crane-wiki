@@ -1,6 +1,6 @@
 ---
 enemies:
-  - name: Armadillo
+  - name: Armadillos
     info:
     variants:
     tiers:
