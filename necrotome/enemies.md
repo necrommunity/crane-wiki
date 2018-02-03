@@ -16,29 +16,29 @@ enemies:
     info: Stationary entity with no attack.  Drops hot coals when hit.
     variants: 1
   - name: Clones
-    info:
-    variants:
+    info: Mirrors your movements.
+    variants: 1
   - name: Devils
-    info:
-    variants:
+    info: Armoured enemy that must be broken out of its shell.
+    variants: 3
   - name: Elementals
-    info:
-    variants:
+    info: Leaves a trail of hot coals or ice as it moves.
+    variants: 2
   - name: Evil Eyes
-    info:
-    variants:
+    info: Stationary until it sees you, then charges.
+    variants: 2
   - name: Gargoyles
-    info:
-    variants:
+    info: They look like statues until you get close.
+    variants: 4
   - name: Ghost
-    info:
-    variants:
+    info: Can only be hit after you move away from them.
+    variants: 1
   - name: Goblins
-    info:
-    variants:
+    info: They run away, but then sneak up when your back is turned.
+    variants: 2
   - name: Golems
-    info:
-    variants:
+    info: Slow-moving enemy with lots of health.
+    variants: 2
   - name: Gorgons
     info:
     variants:
