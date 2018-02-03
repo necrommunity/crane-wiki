@@ -14,7 +14,7 @@ enemies:
     variants: 2
   - name: Cauldrons
     info: Stationary entity with no attack.  Drops hot coals when hit.
-    variants: 2
+    variants: 1
   - name: Clones
     info:
     variants:
@@ -112,11 +112,8 @@ enemies:
 # Enemies <small><sub><sup>[Return](./)</sup></sub></small>
 ---
 {{#each enemies}}
-#### [{{name}}](enemies/{{makeLink name}}) <small>| {{variants}} 
-{{#compare variants 1 operator="<"}} 
-  variant 
-{{else}}
-  variants
+#### [{{name}}](enemies/{{makeLink name}}) <small>| {{variants}} {{#compare variants 0 operator=">"}} {{#compare variants 1}} variant {{else}} variants
+{{/compare}}
 {{/compare}}
 </small>
 
