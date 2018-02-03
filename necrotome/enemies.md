@@ -1,22 +1,25 @@
 ---
 enemies:
   - name: Armadillos
-    info: "Armoured enemy which rolls towards the player when they step into its line of sight."
+    info: Armoured enemy which rolls towards the player when they step into its line of sight.
+    types:
     tiers: 2
   - name: Bats
-    info: "Flying enemy with random movement."
+    info: Flying enemy with random movement.
+    types: 2
     tiers: 4
-    types: 2
   - name: Beetles
-    info: "Armoured, environment affecting enemy that tracks the player."
+    info: Armoured, environment affecting enemy that tracks the player.
     types: 2
+    tiers:
   - name: Blademasters
-    info: "Armoured enemy unable to be killed until attacked"
+    info: Armoured enemy unable to be killed until attacked.
+    types:
     tiers: 2
   - name: Cauldrons
-    info:
-    types:
-    tiers:
+    info: Stationary entity with no attack.  Drops hot coals when hit.
+    types: 2
+    tiers: 
   - name: Clones
     info:
     types:
