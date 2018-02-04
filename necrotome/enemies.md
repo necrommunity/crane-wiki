@@ -73,17 +73,17 @@ enemies:
     info: Explodes on damage, heals on contact.
     variants: 1
   - name: Sarcophagi
-    info: 
+    info: Spawns [Skeletons](enemies/skeletons) of the same colour.
     variants: 3
   - name: Shopkeepers
-    info:
-    variants: 7
+    info: Friendly until they're attacked (mostly), high damage.
+    variants: 9
   - name: Shove Monsters
-    info:
+    info: Pushes you in a straight line to crush you against walls or other entities.
     variants: 2
   - name: Skeletons
     info: Dem bones.
-    variants:
+    variants: 12
   - name: Slimes
     info:
     variants: 6
