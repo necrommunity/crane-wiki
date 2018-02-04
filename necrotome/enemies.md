@@ -14,7 +14,7 @@ enemies:
     variants: 2
   - name: Cauldrons
     info: Stationary entity with no attack.  Drops hot coals when hit.
-    variants: 1
+    variants: 2
   - name: Clones
     info: Mirrors your movements.
     variants: 1
@@ -29,85 +29,85 @@ enemies:
     variants: 2
   - name: Gargoyles
     info: They look like statues until you get close.
-    variants: 4
+    variants: 6
   - name: Ghost
     info: Can only be hit after you move away from them.
     variants: 1
   - name: Goblins
     info: They run away, but then sneak up when your back is turned.
-    variants: 2
+    variants: 4
   - name: Golems
     info: Slow-moving enemy with lots of health.
-    variants: 2
+    variants: 3
   - name: Gorgons
-    info:
-    variants:
+    info: Freezes your movements for 4 beats as its attack, leaves a statue when killed.
+    variants: 2
   - name: Harpy
-    info:
-    variants:
+    info: Moves in an L shape, hard to outrun.
+    variants: 1
   - name: Hellhound
-    info:
-    variants:
+    info: Can move diagonally, drops hot coals when killed.
+    variants: 1
   - name: Leprechaun
-    info:
+    info: Spawns on a pile of 50 or more gold on the 8th beat after it's created.
     variants:
   - name: Mages
-    info:
-    variants:
+    info: Technical enemies that try to afect your movement.
+    variants: 3
   - name: Mimics
-    info:
-    variants:
+    info: These enemies are not what they first appear to be.
+    variants: 5
   - name: Moles
-    info:
-    variants:
+    info: Move underground, pop up to attack.
+    variants: 1
   - name: Monkeys
-    info:
-    variants:
+    info: Deal no direct damage, but affect your movement in various ways.
+    variants: 4
   - name: Mushrooms
-    info:
-    variants:
+    info: This enemy type stretches from environmental to also being one of the few 3/4 time signiature enemies.
+    variants: 4 
   - name: Orcs
-    info:
-    variants:
+    info: Armoured enemies that chase the player down.
+    variants: 3
   - name: Pixie
-    info:
-    variants:
+    info: Explodes on damage, heals on contact.
+    variants: 1
   - name: Sarcophagi
-    info:
-    variants:
+    info: 
+    variants: 3
   - name: Shopkeepers
     info:
-    variants:
+    variants: 7
   - name: Shove Monsters
     info:
-    variants:
+    variants: 2
   - name: Skeletons
-    info: "Dem bones."
+    info: Dem bones.
     variants:
   - name: Slimes
     info:
-    variants:
+    variants: 6
   - name: Spider
     info:
-    variants:
+    variants: 1
   - name: Spirits
     info:
-    variants:
+    variants: 5
   - name: Tar Monster
     info:
-    variants:
+    variants: 1
   - name: Warlocks
     info:
-    variants:
+    variants: 2
   - name: Water Ball
     info:
-    variants:
+    variants: 1
   - name: Yeti
     info:
-    variants:
+    variants: 1
   - name: Zombie
     info:
-    variants:
+    variants: 3
 ---  
 # Enemies <small><sub><sup>[Return](./)</sup></sub></small>
 ---
