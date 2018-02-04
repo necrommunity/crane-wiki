@@ -109,7 +109,7 @@ enemies:
     info:
     variants: 3
 ---  
-# Enemies <small><sub><sup>[Return](./)</sup></sub></small>
+# Enemies <small><sub><sup>[Return](.)</sup></sub></small>
 ---
 {{#each enemies}}
 #### [{{name}}](enemies/{{makeLink name}}) <small>| {{variants}} {{#compare variants 0 operator=">"}} {{#compare variants 1}} variant {{else}} variants
