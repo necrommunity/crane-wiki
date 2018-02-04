@@ -1,45 +1,45 @@
 ---
 enemies:
-  - name: Armadillos
+  - name: Armadillo
     info: Armoured enemy which rolls towards the player when they step into its line of sight.
     variants: 3
-  - name: Bats
+  - name: Bat
     info: Flying enemy with random movement.
     variants: 4
-  - name: Beetles
+  - name: Beetle
     info: Armoured, environment affecting enemy that tracks the player.
     variants: 2
-  - name: Blademasters
+  - name: Blademaster
     info: Armoured enemy unable to be killed until attacked.
     variants: 2
-  - name: Cauldrons
+  - name: Cauldron
     info: Stationary entity with no attack.  Drops hot coals when hit.
     variants: 2
-  - name: Clones
+  - name: Clone
     info: Mirrors your movements.
     variants: 1
-  - name: Devils
+  - name: Devil
     info: Armoured enemy that must be broken out of its shell.
     variants: 3
-  - name: Elementals
+  - name: Elemental
     info: Leaves a trail of hot coals or ice as it moves.
     variants: 2
-  - name: Evil Eyes
-    info: Stationary until it sees you, then charges.
+  - name: Evil Eye
+    info: Stationary until they see you, then charges.
     variants: 2
-  - name: Gargoyles
-    info: They look like statues until you get close.
+  - name: Gargoyle
+    info: They look like a statue until you get close.
     variants: 6
   - name: Ghost
     info: Can only be hit after you move away from them.
     variants: 1
-  - name: Goblins
+  - name: Goblin
     info: They run away, but then sneak up when your back is turned.
     variants: 4
-  - name: Golems
+  - name: Golem
     info: Slow-moving enemy with lots of health.
     variants: 3
-  - name: Gorgons
+  - name: Gorgon
     info: Freezes your movements for 4 beats as its attack, leaves a statue when killed.
     variants: 2
   - name: Harpy
@@ -51,52 +51,52 @@ enemies:
   - name: Leprechaun
     info: Spawns on a pile of 50 or more gold on the 8th beat after it's created.
     variants:
-  - name: Mages
-    info: Technical enemies that try to afect your movement.
+  - name: Mage
+    info: Technical enemy that tries to affect your movement.
     variants: 3
-  - name: Mimics
-    info: These enemies are not what they first appear to be.
+  - name: Mimic
+    info: This enemy is not what they first appear to be.
     variants: 5
-  - name: Moles
-    info: Move underground, pop up to attack.
+  - name: Mole
+    info: Moves underground, pop up to attack.
     variants: 1
-  - name: Monkeys
-    info: Deal no direct damage, but affect your movement in various ways.
+  - name: Monkey
+    info: Deals no direct damage, but affects your movement in various ways.
     variants: 4
-  - name: Mushrooms
-    info: This enemy type stretches from environmental to also being one of the few 3/4 time signiature enemies.
+  - name: Mushroom
+    info: This enemy type stretches from environmental to also being one of the few 3/4 time signature enemies.
     variants: 4 
-  - name: Orcs
-    info: Armoured enemies that chase the player down.
+  - name: Orc
+    info: Armoured enemy that chases you down.
     variants: 3
   - name: Pixie
     info: Explodes on damage, heals on contact.
     variants: 1
-  - name: Sarcophagi
-    info: Spawns [Skeletons](enemies/skeletons) of the same colour.
+  - name: Sarcophagus
+    info: Spawns [Skeletons](enemies/skeletons) of the same variant.
     variants: 3
-  - name: Shopkeepers
-    info: Friendly until they're attacked (mostly), high damage.
+  - name: Shopkeeper
+    info: Passive until attacked (mostly), high damage.
     variants: 9
-  - name: Shove Monsters
+  - name: Shove Monster
     info: Pushes you in a straight line to crush you against walls or other entities.
     variants: 2
-  - name: Skeletons
+  - name: Skeleton
     info: Dem bones.
     variants: 12
-  - name: Slimes
+  - name: Slime
     info:
     variants: 6
   - name: Spider
     info:
     variants: 1
-  - name: Spirits
+  - name: Spirit
     info: Stays in walls, moves diagonally once freed.
     variants: 5
   - name: Tar Monster
     info:
     variants: 1
-  - name: Warlocks
+  - name: Warlock
     info:
     variants: 2
   - name: Water Ball
