@@ -52,7 +52,7 @@ enemies:
     info: Spawns on a pile of 50 or more gold on the 8th beat after it's created.
     variants: 1
   - name: Mages
-    info: Technical enemies that try to afect your movement.
+    info: Technical enemies that try to affect your movement.
     variants: 3
   - name: Mimics
     info: These enemies are not what they first appear to be.
@@ -85,29 +85,29 @@ enemies:
     info: Dem bones.
     variants: 12
   - name: Slimes
-    info:
+    info: Basic enemies with limited-range movement patterns.
     variants: 6
   - name: Spider
-    info:
+    info: Stays in walls, moves diagonally once freed.
     variants: 1
   - name: Spirits
-    info: Stays in walls, moves diagonally once freed.
+    info: Chases you every beat, gains new abilities each zone.
     variants: 5
   - name: Tar Monster
-    info:
+    info: Tries to drag you into the depths of the swamp.
     variants: 1
   - name: Warlocks
-    info:
+    info: Teleports the player with its dying breath.
     variants: 2
   - name: Water Ball
-    info:
+    info: No damage, but can encase the player in water.
     variants: 1
   - name: Yeti
-    info:
+    info: Slow, area-of-effect damage.
     variants: 1
   - name: Zombies
-    info:
-    variants: 3
+    info: Slow unless charged up.
+    variants: 2
 ---  
 # Enemies <small><sub><sup>[Return](.)</sup></sub></small>
 ---
