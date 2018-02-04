@@ -15,7 +15,7 @@ enemies:
   - name: Cauldrons
     info: Stationary entity with no attack.  Drops hot coals when hit.
     variants: 2
-  - name: Clones
+  - name: Clone
     info: Mirrors your movements.
     variants: 1
   - name: Devils
@@ -50,7 +50,7 @@ enemies:
     variants: 1
   - name: Leprechaun
     info: Spawns on a pile of 50 or more gold on the 8th beat after it's created.
-    variants:
+    variants: 1
   - name: Mages
     info: Technical enemies that try to afect your movement.
     variants: 3
