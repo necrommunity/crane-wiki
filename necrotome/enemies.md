@@ -105,7 +105,7 @@ enemies:
   - name: Yeti
     info:
     variants: 1
-  - name: Zombie
+  - name: Zombies
     info:
     variants: 3
 ---  
