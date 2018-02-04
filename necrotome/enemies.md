@@ -91,7 +91,7 @@ enemies:
     info:
     variants: 1
   - name: Spirits
-    info:
+    info: Stays in walls, moves diagonally once freed.
     variants: 5
   - name: Tar Monster
     info:
