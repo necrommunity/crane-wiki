@@ -57,8 +57,8 @@ enemies:
   - name: Mimics
     info: These enemies are not what they first appear to be.
     variants: 5
-  - name: Moles
-    info: Move underground, pop up to attack.
+  - name: Mole
+    info: Moves underground, pops up to attack.
     variants: 1
   - name: Monkeys
     info: Deal no direct damage, but affect your movement in various ways.
