@@ -37,6 +37,6 @@ bosses:
 # Bosses <small><sub><sup>[Return](.)</sup></sub></small>
 ---
 {{#each bosses}}
-#### [{{name}}](boss/{{makeLink name}}) <small>| {{type}} </small>  
+#### [{{name}}](bosses/{{makeLink name}}) <small>| {{type}} </small>  
 {{info}}
 {{/each}}
