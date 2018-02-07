@@ -86,7 +86,7 @@ Developed by Staekk, specifically for cats.  This strat only works when Dead Rin
 ### Damaging Dead Ringer
 It is possible to beat Dead Ringer without ringing any of the bells, or the gong - he is able to be damaged by any mechanic that would normally deal infinite damage, or by being hit with an attack (melee, spell, or item) that deals 10 damage or more. These include:
 
-1. Pulse scroll/tome/spell with Ring of Mana
+1. Pulse scroll/tome, or /spell with Ring of Mana
 2. Earth tome/spell, by crushing him against a wall, bell, enemy, or whilst frozen
 3. Frost dagger whilst frozen (Frost charm, Freeze scroll/tome/spell or Ice Spirit familiar)
 4. Phasing dagger
