@@ -157,17 +157,3 @@ Lure DR to the bottom of the stage, use freeze spell, and hit DR with the frost 
 
 Use earthquake scroll on the tile before the door, which breaks all the bells immediately. Lure DR to the gong from the center of the stage.
 
-## **Super Ultra Mega Advanced Death Tunnel Strat**
-
-https://clips.twitch.tv/TrappedFaintBurritoCclamChamp
-
-This strat revolutionized the DR fight, created by CheesyPotato. (requires fireball, frost familiar, and earth spell)
-1. Break all the bells, and then use earth spell on the center row with DR on the right side. Break the top and bottom blocks.
-
-2. Move up and fireball both sarcophagi. 
-
-3. Move down, and freeze DR with the frost familiar.
-
-4. Move into the tunnel created with earth spell.
-
-5. Immortalize yourself as a meme for eternity.
