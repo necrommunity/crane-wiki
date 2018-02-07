@@ -84,10 +84,17 @@ Developed by Staekk, specifically for cats.  This strat only works when Dead Rin
 
 ---
 ### Damaging Dead Ringer
-It is possible to beat Dead Ringer without ringing any of the bells, or the gong - he is able to be damaged by any mechanic that would normally deal infinite damage, or by being hit with an attack (melee, spell, or item) that deals 10 damage or more.  These include:
+It is possible to beat Dead Ringer without ringing any of the bells, or the gong - he is able to be damaged by any mechanic that would normally deal infinite damage, or by being hit with an attack (melee, spell, or item) that deals 10 damage or more. These include:
 
-1. Pulse scroll, or Pulse spell with Ring of Mana
-2. Earth tome, or Earth spell, by crushing him against a wall or bell
-3. Frost dagger whilst frozen (Frost charm or Freeze spell/scroll)
+1. Pulse scroll/tome/spell with Ring of Mana
+2. Earth tome/spell, by crushing him against a wall, bell, enemy, or whilst frozen
+3. Frost dagger whilst frozen (Frost charm, Freeze scroll/tome/spell or Ice Spirit familiar)
 4. Phasing dagger
 5. Earthquake scroll (Use this to open the doors to the fight too!)
+6. Blood Drum
+7. Any blood weapon while on 0.5 heart
+8. Any gold weapon (using its infinite damage mechanic)
+9. Having any weapon with 10+ damage (e.g. a glass weapon with Glass Jaw/Karate Gi and Ring of Wonder)
+
+By doing so Dead Ringer will be in his 2nd stage immediately and can either be damaged a second time using any of the methods above or lured into the gong.  
+Damaging him preemptively is usually faster and more consistent than any of the other strategies.
