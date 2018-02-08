@@ -7,7 +7,7 @@ Teleporting does not activate on-movement effects (such as the Lute or Boots of 
 
 The teleportation happens immediately with the attack, so enemies will be able to attack you immediately after the teleport, any trap you land on will activate as normal, etc. Any player knockback from the Rifle or Blunderbuss will also happen after the teleport.
 
-Warlocks will only teleport you if they die to damage from a weapon. This includes melee attacks, thrown daggers or spears, and bows or guns, but does not include damage from spells, bombs, or consumables such as Holy Water or Throwing Stars. In addition, a warlock will teleport you if they take damage from the Boots of Pain, but not from the Ring of Pain.
+Warlocks will only teleport you if they die to damage from a weapon. This includes melee attacks, thrown daggers or spears, and bows or guns, but does not include damage from spells, bombs, familiars, or consumables such as Holy Water or Throwing Stars. In addition, a warlock will teleport you if they take damage from the Boots of Pain, but not from the Ring of Pain.
 
 ### Warlock
 |Stat|Value|
