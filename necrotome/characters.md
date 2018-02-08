@@ -7,7 +7,7 @@ characters:
   - name: Aria
     info: Cadence's grandmother
 ---
-# Characters
+# Characters <small><sub><sup>[Return](.)</sup></sub></small>
 ---
 {{#each characters}}
 #### [{{name}}](characters/{{makeLink name}})
