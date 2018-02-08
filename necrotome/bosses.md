@@ -28,10 +28,10 @@ bosses:
     info: A sprawling monster - use the bouncetraps to win!
     type: Story (Aria)
   - name: Frankensteinway
-    info: ~
+    info: 
     type: Story (Nocturna)
-  - name: Golden Lute
-    info: ~
+  - name: Conductor
+    info: 
     type: Story (Nocturna)
 ---  
 # Bosses <small><sub><sup>[Return](.)</sup></sub></small>
