@@ -9,9 +9,18 @@ Dead Ringer is one of the most complex bosses in the game, and the community has
   4) BR = Bottom right
 
 You can find a video playlist of the strats discussed below by clicking [here](https://www.youtube.com/watch?v=ZjK1oEm8MY8&list=PLJUhDoVZKFEgt8Saw1LyLTDadZ09vGUaZ).
-## Strategies
+## {{anchor "strategies"}} Strategies
 ---
-### Luring
+- {{jump "Luring" "luring"}}
+- {{jump "Japanese strat" "japanese"}}
+- {{jump "Oblivion strat" "oblivion"}}
+- {{jump "Flail strat" "flail"}}
+- {{jump "Cat strat" "cat"}}
+- {{jump "Staff strat" "staff"}}
+- {{jump "Damaging Dead Ringer" "damage"}}
+
+
+### {{{anchor "luring"}}}Luring
 Luring Dead Ringer is generally the safest way to beat the fight, but the tradeoff is speed, especially versus other strats.  You should use lures when you have a healthy lead heading into the fight.
 
 #### Right side (DR spawns left side)
@@ -28,7 +37,9 @@ Luring Dead Ringer is generally the safest way to beat the fight, but the tradeo
 2. Move straight up to the TL bell, and hit it from the top tile. (if the ogre doesn't block DR, you aren't going to the BL bell fast enough)
 3. Move diagonally to the tile under the gong, and move out of DR's path.
 
-### Japanese strat
+<small>{{jump "Back to list" "strategies"}}</small>
+
+### {{{anchor "japanese"}}}Japanese strat
 ###### [Video](http://www.youtube.com/watch?v=ZjK1oEm8MY8) by crash2455</small>
 Developed by the Japanese community, this strat is faster but less safe than the standard luring as some skeleton spawns can ruin it.
 
@@ -36,8 +47,10 @@ Developed by the Japanese community, this strat is faster but less safe than the
 2. Hit the bell at the same time as DR hits the TL, and move right toward the BR bell as DR moves downward.
 3. Hit the BR bell from the top, and move up to hit the TR bell from the bottom.
 4. Move left to lure DR towards the gong.
+5. 
+<small>{{jump "Back to list" "strategies"}}</small>
 
-### Oblivion strat
+### {{{anchor "oblivion"}}} Oblivion strat
 ###### [Video](https://www.youtube.com/watch?v=n9reINxktx4&t=47s) by crash2455
 
 Use for left spawn, straight attack or move + attack weapons < 3 damage
@@ -49,7 +62,9 @@ Use for left spawn, straight attack or move + attack weapons < 3 damage
 
 If you have a broadsword, please see this [video](https://www.youtube.com/watch?v=3ZkAu2SBSfQ) for a slight revision on the Oblivion strat.
 
-### Flail strat
+<small>{{jump "Back to list" "strategies"}}</small>
+
+### {{{anchor "flail"}}} Flail strat
 ###### [Video](https://www.youtube.com/watch?v=ecLiJnxDVgw) by Staekk
 Developed by Staekk, specifically for flails.
 
@@ -58,7 +73,9 @@ Developed by Staekk, specifically for flails.
 3. Move right to the center of the stage, and move up from the center.
 4. When DR is 1 tile above you, hit him with the flail to knock him into the gong.
 
-### Cat strat
+<small>{{jump "Back to list" "strategies"}}</small>
+
+### {{anchor "cat"}} Cat strat
 ###### [Video](http://www.youtube.com/watch?v=6N5UxyujGOM) by Staekk
 Developed by Staekk, specifically for cats.  This strat only works when Dead Ringer spawns on the left side of the arena.
 
@@ -66,7 +83,9 @@ Developed by Staekk, specifically for cats.  This strat only works when Dead Rin
 2. Kill the minotaur, and move left to hit the BL bell on the right tile.
 3. Move diagonally, then up on the center tile, hitting DR against the ogre, then lure him into the gong.
 
-### Staff strat
+<small>{{jump "Back to list" "strategies"}}</small>
+
+### {{anchor "staff"}}Staff strat 
 
 #### Right side (DR spawns left side)
 ###### [Video](http://www.youtube.com/watch?v=FlbRsjhWkJ0) by Grimy
@@ -82,8 +101,10 @@ Developed by Staekk, specifically for cats.  This strat only works when Dead Rin
 2. Move to the right side of the BR bell and hit it to activate the BL one.
 3. Move to the left, then up on the center row to lure DR into the gong.
 
+<small>{{jump "Back to list" "strategies"}}</small>
+
 ---
-### Damaging Dead Ringer
+### {{anchor "damage"}}Damaging Dead Ringer
 It is possible to beat Dead Ringer without ringing any of the bells, or the gong - he is able to be damaged by any mechanic that would normally deal infinite damage, or by being hit with an attack (melee, spell, or item) that deals 10 damage or more. These include:
 
 1. Pulse scroll, or Pulse spell with Ring of Mana
@@ -97,3 +118,5 @@ It is possible to beat Dead Ringer without ringing any of the bells, or the gong
 
 By doing so Dead Ringer will be in his 2nd stage immediately and can either be damaged a second time using any of the methods above or lured into the gong.  
 Damaging him preemptively is usually faster and more consistent than any of the other strategies.
+
+<small>{{jump "Back to list" "strategies"}}</small>
