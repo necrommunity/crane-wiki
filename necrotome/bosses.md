@@ -1,5 +1,5 @@
 ---
-bosses:
+boss:
   - name: King Konga
     info: Remember to stop on the 8th beat!
     type: Normal
@@ -28,15 +28,15 @@ bosses:
     info: A sprawling monster - use the bouncetraps to win!
     type: Story (Aria)
   - name: Frankensteinway
-    info: 
+    info: ~
     type: Story (Nocturna)
   - name: Golden Lute
-    info: 
+    info: ~
     type: Story (Nocturna)
 ---  
 # Bosses <small><sub><sup>[Return](.)</sup></sub></small>
----
-{{#each bosses}}
-#### [{{name}}](bosses/{{makeLink name}}) <small>| {{type}} </small>  
+---  
+{{#each boss}}
+#### [{{name}}](boss/{{makeLink name}}) <small>| {{type}} </small>  
 {{info}}
 {{/each}}
