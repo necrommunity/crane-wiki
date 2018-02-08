@@ -1,5 +1,5 @@
 ---
-boss:
+bosses:
   - name: King Konga
     info: Remember to stop on the 8th beat!
     type: Normal
@@ -36,7 +36,7 @@ boss:
 ---  
 # Bosses <small><sub><sup>[Return](.)</sup></sub></small>
 ---  
-{{#each boss}}
-#### [{{name}}](boss/{{makeLink name}}) <small>| {{type}} </small>  
+{{#each bosses}}
+#### [{{name}}](bosses/{{makeLink name}}) <small>| {{type}} </small>  
 {{info}}
 {{/each}}
