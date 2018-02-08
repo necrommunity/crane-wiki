@@ -1,4 +1,4 @@
-# Armadillos <small><sub><sup>[Return](./)</sup></sub></small>
+# Golems <small><sub><sup>[Return](./)</sup></sub></small>
 ---
 Golems are large, slow enemies that are able to deal large amounts of damage to the player. Zone 2 has Light Golems and Dark Golems, which behave similarly but with different health and damage, while zone 4 introduces the Ooze Golem (or "Goolem"), which is able to influence the terrain of the map.
 
