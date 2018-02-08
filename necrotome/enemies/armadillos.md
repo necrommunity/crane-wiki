@@ -1,6 +1,7 @@
 # Armadillos <small><sub><sup>[Return](./)</sup></sub></small>
 ---
-Armadillos are an enemy that roll towards the player 1 tile per beat whenever the player crosses its line of sight.  There are 3 types of Armadillos in game: White, Yellow, and Orange.  While the first 2 are a lower and higher damage and health version of one another respectively, Orange Armadillos are more unique by virtue of being able to move diagonally.
+Armadillos are an enemy that roll towards the player 1 tile per beat whenever the player crosses its line of sight.  There are 3 types of Armadillos in game: White, Yellow, and Orange. White and yellow armadillos appear in zone 2, and orange armadillos in zone 4.
+While the first two are a lower and higher damage and health version of one another respectively, Orange Armadillos are more unique by virtue of being able to move diagonally.
 
 While rolling, an armadillo is armoured. If hit in this state, it will begin to roll away from the source of damage, but will not take any damage itself. Phasing and piercing attacks are able to deal damage through this armour.
 
