@@ -46,3 +46,19 @@ Handlebars.registerHelper('compare', function(lvalue, rvalue, options) {
     }
 
 });
+
+Handlebars.registerHelper('anchor', function(title) {
+//creates an anchor point for jumping, with id 'title'.
+//Usage syntax: {{{anchor "section"}}} for an id of 'section'
+   title = Handlebars.escapeExpression(title);
+   return new Handlebars.SafeString("<a id='" + title +"'></a>");
+});
+
+Handlebars.registerHelper('jump',function(text, title) {
+//creates a jump link to a defined anchor (see helper 'anchor').
+//Syntax: {{{jump "insert phrase here" "section"}}} for a link that displays as 'insert phrase here' and jumps to id 'section'
+   title = Handlebars.escapeExpression(title);
+   text = Handlebars.escapeExpression(text);
+   return new Handlebars.SafeString("<a href='#" + title + "'>" + text + "</a>");
+   });
+
