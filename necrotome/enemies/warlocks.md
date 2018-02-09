@@ -1,7 +1,7 @@
 # Warlocks <small><sub><sup>[Return](./)</sup></sub></small>
 ---
 
-Warlocks are a zone 4 enemy that moves directly towards the player every second beat. When killed by weapon damage, the player will teleport to the position of the warlock.
+Warlocks are a zone 4 enemy that moves directly towards the player every second beat. When the player kills a warlock with a weapon, the warlock will teleport the player into their formerly occupied space.
 
 Teleporting does not activate on-movement effects (such as the Lute or Boots of Pain). Any items or coins that the warlock is standing on when it dies (including the coins it drops) will be teleported to the player's previous position. Traps are unaffected. In addition, items that the player is standing on during the teleport will not move. 
 
