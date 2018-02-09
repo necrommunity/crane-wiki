@@ -43,7 +43,7 @@ enemies:
     info: Freezes your movements for 4 beats as its attack, leaves a statue when killed.
     variants: 2
   - name: Harpy
-    info: Moves in an L shape, hard to outrun.
+    info: Moves very far in one move, hard to outrun.
     variants: 1
   - name: Hellhound
     info: Can move diagonally, drops hot coals when killed.
