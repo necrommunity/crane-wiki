@@ -9,7 +9,7 @@ We require racers to stream in the native windowed resolution of the game, or a 
 |1920x1080|4x|
 *Note: Please be aware that if you play in Windowed mode with a window size of 1920x1080, and you have maximised the window, you will be unable to see Dead Ringer from the doors of the room.  We recommend that you either play in Fullscreen mode, or reduce your window size.*  
 
-Additionally, please ensure your settings under Graphical Settings match the following:
+Additionally, please ensure your settings under Gameplay Options match the following:
 |Setting|Value|
 |---|---|
 |Boss intros|Enabled|
