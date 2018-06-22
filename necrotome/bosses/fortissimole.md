@@ -55,4 +55,3 @@ just run on up and kickim in the nuggets
 ### Miscellaneous Tips
 - this boss has a severe gluten intolerance
 - never take glass jaw, why would you do that
-- _Impress Your Friends By Better Understanding One Of This Game's Million Puns_: "Fortissimo" is a musical term meaning to play something very loudly. A mole is a small burrowing mammal, or a short-lived reality competition starring Anderson Cooper.
