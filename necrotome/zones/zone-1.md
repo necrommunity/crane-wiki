@@ -11,6 +11,9 @@
   * Bomb Traps
   * Water
 
+#### __Enemies:__
+  * list goes here
+
 #### __Zone Overview__
 
 good stuff goes here
