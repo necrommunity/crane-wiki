@@ -10,6 +10,7 @@ _this is not the greatest boss in the world / no, this is only a tribute_
 |---|---|
 |__Name__|Death Metal|
 |__Appears In__| Story Mode, Zones 1-5|
+|__Phases__|3|
 |__HP__| 9|
 |__Minions__| 4 trash monsters increasing in difficulty and frequency depending on zone, plus more if you let him|
 
@@ -18,6 +19,12 @@ _this is not the greatest boss in the world / no, this is only a tribute_
 
 ### Basics
 [writeup on basics here]
+
+#### Phase 1
+[phase 1 ish]
+
+#### Phase 2
+[phase 2 ish]
 
 ---
 ### {{anchor "strategies"}}Racing Strategies
@@ -38,6 +45,11 @@ The BFG is the best strategy to kill this boss.
 
 ###### [Video](http://www.youtube.com/watch?v=ZjK1oEm8MY8) by helpfulperson</small>
 just run on up and kickim in the nuggets
+
+---
+### Elad's Necrotome
+
+[video embed here]
 
 ---
 ### Miscellaneous Tips
