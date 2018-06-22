@@ -10,6 +10,7 @@ _bone thugs and... actually just a lot of bone thugs_
 |---|---|
 |__Name__|Fortissimole|
 |__Appears In__| Story Mode, Zones 1-5|
+|__Phases__|2|
 |__HP Per Zone__| 2/3/4/5/6|
 |__Minions__| 14 adorably vibing skeletons forming two rows in front of the stage, plus some other trash depending on level|
 
@@ -18,6 +19,12 @@ _bone thugs and... actually just a lot of bone thugs_
 
 ### Basics
 [writeup on basics here]
+
+#### Phase 1
+[phase 1 ish]
+
+#### Phase 2
+[phase 2 ish]
 
 ---
 ### {{anchor "strategies"}}Racing Strategies
