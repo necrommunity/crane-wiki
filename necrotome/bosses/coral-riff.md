@@ -40,6 +40,11 @@ The BFG is the best strategy to kill this boss.
 just run on up and kickim in the nuggets
 
 ---
+### Elad's Necrotome
+
+[video embed here]
+
+---
 ### Miscellaneous Tips
 - this boss has a severe gluten intolerance
 - never take glass jaw, why would you do that
