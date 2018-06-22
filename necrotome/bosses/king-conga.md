@@ -55,4 +55,3 @@ just run on up and kickim in the nuggets
 ### Miscellaneous Tips
 - this boss has a severe gluten intolerance
 - never take glass jaw, why would you do that
-- _Impress Your Friends By Better Understanding One Of This Game's Million Puns_: A conga is a Cuban drum similar to a bongo that inspired the "conga line" dance in the U.S. in the 1930s-40s. King Kong is the angry, giant, yet tragically misunderstood fictional gorilla in the classic 1933 movie of the same name which inspired both a classic 1986 arcade game and a wholly unnecessary 2005 Jack Black remake.
