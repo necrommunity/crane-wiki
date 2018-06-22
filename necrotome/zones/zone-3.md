@@ -6,7 +6,7 @@
 * Traps: 
   * Trap Doors
   * Tempo Traps
-  * Bounce Traps
+  * Bounce Traps (including rotating Bounce Traps)
   * Spike Traps
   * Bomb Traps
   * Confuse Traps
