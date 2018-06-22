@@ -10,6 +10,7 @@ _zut alors! I have missed one_
 |---|---|
 |__Name__|Coral Riff|
 |__Appears In__| Story Mode, Zones 1-5|
+|__Phases__|2|
 |__HP Per Zone__| 3/4/5/6/7|
 |__Minions__| 8 instruments, which are actually his tentacles so long as you don't think about how goddamn massive he would have to be for that to actually work given the playfield|
 
@@ -18,6 +19,12 @@ _zut alors! I have missed one_
 
 ### Basics
 [writeup on basics here]
+
+#### Phase 1
+[phase 1 ish]
+
+#### Phase 2
+[phase 2 ish]
 
 ---
 ### {{anchor "strategies"}}Racing Strategies
