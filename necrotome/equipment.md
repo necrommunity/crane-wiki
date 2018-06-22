@@ -24,7 +24,10 @@ equipment:
     type: Usable Items
 ---  
 # Necrotome: Equipment <small><sub><sup>[Return](.)</sup></sub></small>
----  
+--- 
+If you're going to take down the Necrodancer, you're going to need some gear. Below is a list of equipment types with individual pages breaking down stats and racing tips for various pieces of equipment.
+
+---
 {{#each equipment}}
 #### [{{name}}](equipment/{{makeLink name}}) <small>| {{type}} </small>  
 {{info}}
