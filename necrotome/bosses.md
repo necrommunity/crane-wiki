@@ -1,6 +1,6 @@
 ---
 bosses:
-  - name: King Konga
+  - name: King Conga
     info: Remember to stop on the 8th beat!
     type: Normal
   - name: Death Metal
