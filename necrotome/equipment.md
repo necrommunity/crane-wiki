@@ -2,18 +2,18 @@
 ---
 
 ## Key Gear
-#### [Weapons](necrotome/equipment/weapons)
-#### [Shovels](necrotome/equipment/shovels)
-#### [Torches](necrotome/equipment/torches)
+#### [Weapons](/equipment/weapons)
+#### [Shovels](/equipment/shovels)
+#### [Torches](/equipment/torches)
 
 ## Wearables
-#### [Body Armor](necrotome/equipment/armor)
-#### [Headwear](necrotome/equipment/headwear)
-#### [Footwear](necrotome/equipment/footwear)
-#### [Rings](necrotome/equipment/rings)
+#### [Body Armor](/equipment/armor)
+#### [Headwear](/equipment/headwear)
+#### [Footwear](/equipment/footwear)
+#### [Rings](/equipment/rings)
 
 ## Useable Items
-#### [Spells](necrotome/equipment/spells)
-#### [Consumables](necrotome/equipment/consumables)
-#### [Pickups and Charms](necrotome/equipment/pickups)
-#### [Familiars](necrotome/equipment/familars)
+#### [Spells](/equipment/spells)
+#### [Consumables](/equipment/consumables)
+#### [Pickups and Charms](/equipment/pickups)
+#### [Familiars](/equipment/familars)
