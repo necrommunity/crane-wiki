@@ -6,11 +6,12 @@
 * Traps: 
   * Trap Doors
   * Tempo Traps
-  * Bounce Traps
+  * Bounce Traps (including diagonal Bounce Traps)
   * Spike Traps
   * Bomb Traps
   * Confuse Traps
   * Teleport Traps
+  * Wall Pigs (fireball traps)
   * Ooze
 
 #### __Enemies__
