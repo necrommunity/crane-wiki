@@ -11,6 +11,9 @@
   * Bomb Traps
   * Tar
 
+#### __Enemies__
+* list of enemies
+
 #### __Zone Overview__
 
 good stuff goes here
