@@ -16,14 +16,13 @@ shrines:
     triggered: May drop a random item, or it may drop nothing. Increases the price of future activations of that shrine. If you are wearing the [Lucky Charm] or [Ring of Luck], a random drop is guaranteed.
     bombedbefore: A random item.
     bombedafter: A random item.
-    strat: test
+    strat: goes here
   - name: Shrine of Darkness
-    triggered: test
-    bombedbefore: test
-    xbombedbefore: test
-    bombedafter: test
-    xbombedafter: test
-    strat: test
+    triggered: Gives the player a [Map], [Compass], and a [Bomb]. Destroys the player's ring (if they have one) and replaces it with a [Ring of Shadows]. Destroys the player's torch, if they have one; all torches on the level's walls, and future levels will spawn without torches.
+    bombedbefore: [Infernal Torch]
+    xbombedbefore: Dove - [Bright Torch]
+    bombedafter: [Luminous Torch]
+    strat: In spite of the severe vision restrictions, one of the best shrines for getting your hands on a fast build ASAP. Of course, the [Map] and [Compass] are hugely valuable, but the [Ring of Shadows] will let you start serial-burglaring shops as you run past them. And even the drawback can be a positive - the limited light will also limit your aggro.
   - name: Shrine of Glass
     triggered: test
     bombedbefore: test
