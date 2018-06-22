@@ -4,10 +4,16 @@
 - {{jump "Keep a Racing Mindset" "mindset"}}
   - {{jump "Switching from Speedrunning" "switchspeed"}}
   - {{jump "Switching from Deathless" "switchdeath"}}
-- {{jump "Know Your Damage" "damage"}}
-
+  - {{jump "Play Confidently" "confident"}}
+- {{jump "Keep Track of Your Resources" "resources"}}
+  - {{jump "Know Your Bomb Count" "bombs"}}
+  - {{jump "Know Your Damage" "damage"}}
+- {{jump "Keep Track of Your Opponent" "opponent"}}
+  - {{jump "Screenwatching" "screen"}}
+- {{jump "Other Tips" "other"}}
+  - {{jump "Resetting (Seeded Races)" "reset"}}
 ---
-#### {{anchor "mindset"}}Keep a Racing Mindset <small>{{jump "Back to list" "main"}}</small>
+### {{anchor "mindset"}}Keep a Racing Mindset <small>{{jump "Back to list" "main"}}</small>
 
 You can think of racing COTND as a spectrum between speedrunning and deathless:
 
@@ -18,7 +24,9 @@ Racing is about finding the balance - you will lose if you go too slowly, but yo
 
 It's also a competition against another player, not the clock. If you're playing a better opponent, you may need to play less safe than you otherwise would in order to put pressure on them; if you can put pressure on them, maybe they'll make a mistake, or even luckier, die.
 
-{{anchor "switchspeed"}}_If You're Switching from Speedrunning to Racing:_ You may need to slow down your game in order to ensure that you finish - if you're speedrunning, you can just reset, but if you die in a race, you're probably screwed. Some tips:
+#### {{anchor "switchspeed"}}If You're Switching from Speedrunning to Racing: 
+
+You may need to slow down your game in order to ensure that you finish - if you're speedrunning, you can just reset, but if you die in a race, you're probably screwed. Some tips:
 
 - Play safer with enemies early on. Taking an extra beat or two to kill an enemy behind you or pick your way safely through a swarm will cost you less than having to make a panicked retreat or worse, dying. Once you've got your build together you can start being a little more Rambo.
 - Occasionally check shops, especially when one of the following is true:
@@ -29,14 +37,44 @@ It's also a competition against another player, not the clock. If you're playing
 - Always check the flawless boss chest, unless you know you're way behind and need to push super-hard.
 - Don't take items you aren’t comfortable with. Sure, [Miner’s Cap] [Boots of Leaping] [Glass Cat] [Karate Gi] is fast, but if you can’t reliably finish a run with it, you're not going to win.
 
-{{anchor "switchdeath"}}_If You're Switching from Deathless to Racing:_ On the other hand, you may just be trying to finish, but faster than normal. If "reckless" is not your problem:
+#### {{anchor "switchdeath"}}If You're Switching from Deathless to Racing:
+On the other hand, you may just be trying to finish, but faster than normal. If "reckless" is not your problem:
 
 - Focus on making quick decisions. Obsessing over [Crown of Thorns] vs. [Blast Helm] for 20 seconds is a time suck. Pick one and get on with your run.
 - Don't go too far out of your way for things. Shops, in particular, but if you're a deathless player you probably have a few habits like picking up gold and killing slimes out of spite that will cost you a lot of time over a run. Remember - you have a lot of levels to make a build, and best build doesn't win. Your goal is the next floor.
 - You're not going to have time to farm, so look for critical items. Value armor; fill out your build at a [Conjurer] or a [Food Shop].
 
---
-#### {{anchor "damage"}}Know Your Damage <small>{{jump "Back to list" "main"}}</small>
+#### {{anchor "confident"}}Play Confidently:
 
 text
 
+---
+### {{anchor "resources"}}Keep Track of Your Resources <small>{{jump "Back to list" "main"}}</small>
+
+text
+
+#### {{anchor "bombs"}}Know Your Bomb Count
+
+text
+
+#### {{anchor "damage"}} Know Your Damage
+
+text
+
+---
+### {{anchor "opponent"}}Keep Track of Your Opponent <small>{{jump "Back to list" "main"}}</small>
+
+text
+
+#### {{anchor "screen"}}Screenwatching
+
+text
+
+---
+### {{anchor "other"}}Other Tips <small>{{jump "Back to list" "main"}}</small>
+
+text
+
+#### {{anchor "reset"}}Resetting (Seeded Races)
+
+text
