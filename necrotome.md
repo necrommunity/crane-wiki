@@ -4,7 +4,7 @@ The NecroTome was originally a YouTube series started by [Elad](/condor/staff#el
 
 <h3>
 
-|[Enemies](necrotome/enemies)|[Bosses](necrotome/bosses)|[Zones](necrotome/zones)|
+|[Enemies](http://crypt-of-the-necrodancer.wikia.com/wiki/Monsters)|[Bosses](necrotome/bosses)|[Zones](necrotome/zones)|
 |:-:|:-:|:-:|
 |__[Equipment](necrotome/equipment)__|__[Shrines](necrotome/shrines)__|__[Shops](necrotome/shops)__|
 |__[Characters](necrotome/characters)__|||
