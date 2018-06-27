@@ -2,8 +2,9 @@
 ---
 #### __Theme:__ Cave
 
-#### __Traps and Hazards:__
-* Traps: 
+#### __[Zone 1 Enemies](http://crypt-of-the-necrodancer.wikia.com/wiki/Monsters#Zone%201)__
+#### __[All Zone Enemies](http://crypt-of-the-necrodancer.wikia.com/wiki/Monsters#All%20Zones)__
+#### __[Zone 1 Traps] 
   * Trap Doors
   * Tempo Traps
   * Bounce Traps
